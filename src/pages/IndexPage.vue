@@ -11,7 +11,7 @@
         class="q-mt-md"
         color="primary"
         to="/second"
-        label="Go to Second Page"
+        label="Go to Second page"
         no-caps
       />
     </div>
